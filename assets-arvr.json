@@ -1,0 +1,208 @@
+[
+  {
+    "arvr_id": "FX00990",
+    "description": "Winneke Preston before US UT",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0990\\Flow"
+  },
+  {
+    "arvr_id": "FX0306",
+    "description": "US/UT into the 134 Zone",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Flow%20Meter\\FX0306%20(FX6168)\\Flow"
+  },
+  {
+    "arvr_id": "FX3173",
+    "description": "Winneke inlet to Preston SC",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR21\\Flow%20Meter\\FX3173%20Winneke%20Inlet%20(SC)\\Flow"
+  },
+  {
+    "arvr_id": "FX3124",
+    "description": "Preston Hydro",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20HYDRO%20WZ21\\Flow%20Meter\\FX3124-Mini%20Hydro\\Flow"
+  },
+  {
+    "arvr_id": "FX0231",
+    "description": "Winneke inlet to Preston SF",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0231\\Flow"
+  },
+  {
+    "arvr_id": "FX0001",
+    "description": "Mitcham Delaware Street",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0001-Mitcham%201150%20Delaware%20St\\Flow"
+  },
+  {
+    "arvr_id": "FX3123",
+    "description": "ZF",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20HYDRO%20WZ21\\Flow%20Meter\\FX3123-Silvan\\Flow"
+  },
+  {
+    "arvr_id": "FX0003",
+    "description": "EZ",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0003-Silvan-Preston%20600\\Flow"
+  },
+  {
+    "arvr_id": "FX0004",
+    "description": "EA",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0004-Silvan-Preston%201350\\Flow"
+  },
+  {
+    "arvr_id": "FX0002",
+    "description": "Preston Epping Flow",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0002-Preston-Epping%201150\\Flow"
+  },
+  {
+    "arvr_id": "FX0009",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0009-134%20Zone%20PRV%20DO\\Flow"
+    
+  },
+  {
+    "arvr_id": "FX0209-Morang",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0209-Morang-PRV%20SZ\\Flow"
+  },
+  {
+    "arvr_id": "FX0210",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0210-134%20Zone-PRV%20SZ\\Flow"
+  },
+  {
+    "arvr_id": "FX0211",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0211-WR020%20Winneke%20Inlet%20(SA)\\Flow"
+  },
+  {
+    "arvr_id": "FX0233",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0233\\Flow"
+  },
+  {
+    "arvr_id": "FX0326",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0326\\Flow"
+  },
+  {
+    "arvr_id": "FX0645",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0645\\Flow"
+  },
+  {
+    "arvr_id": "FX0962",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0962\\Flow"
+  },
+  {
+    "arvr_id": "FX0255",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Flow%20Meter\\FX0255\\Flow"
+  },
+  {
+    "arvr_id": "FX3141",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB20\\Flow%20Meter\\FX3141-To%20134%20Zone\\Flow"
+  },
+  {
+    "arvr_id": "FX0213",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20HYDRO%20WZ21\\Flow%20Meter\\FX0213-Winneke\\Flow%20High"
+  },
+  {
+    "arvr_id": "FX0213",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20HYDRO%20WZ21\\Flow%20Meter\\FX0213-Winneke\\Flow%20Low"
+  },
+  {
+    "arvr_id": "PX0108",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Pressure%20Gauge\\PX0108-134%20ZonePreston%20Res%20No%203%20Main%20(TD)\\Pressure"
+  },
+  {
+    "arvr_id": "PX0002",
+    "description": "Preston Epping Pressure",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Pressure%20Gauge\\PX0002-Preston-Epping%201150\\Pressure"
+  },
+  {
+    "arvr_id": "PX0004",
+    "description": "Silvan Preston Pressure at EA",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Pressure%20Gauge\\PX0004-Silvan-Preston%201350(EA)\\Pressure"
+  },
+  {
+    "arvr_id": "WPE0306",
+    "description": "US / UT outlet",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Pressure%20Gauge\\PX0306-Valve%20US%20%26%20UT%20Outlet\\Pressure"
+  },
+  {
+    "arvr_id": "PX0990",
+    "description": "Winneke Preston Inlet Pressure",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Pressure%20Gauge\\PX0990-Winneke-Preston%202100%20Inlet\\Pressure"
+  },
+  {
+    "arvr_id": "PX0307",
+    "description": "US / UT inlet",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Pressure%20Gauge\\PX0307-Valve%20US%20%26%20UT%20Inlet\\Pressure"
+  },
+  {
+    "arvr_id": "PX0989",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Pressure%20Gauge\\PX0989-Outlet%20Header\\Pressure"
+  },
+  {
+    "arvr_id": "PX0255",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Pressure%20Gauge\\PX0255-134%20Zone%20PSV%20To%20Res%201%20(TH)\\Pressure"
+  },
+  {
+    "arvr_id": "PX0112",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WR20\\Pressure%20Gauge\\PX0112-Morang-Preston%20At%20WR20\\Pressure"
+  },
+  {
+    "arvr_id": "PX0306",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Pressure%20Gauge\\PX0306-Valve%20US%20%26%20UT%20Outlet\\Pressure"
+  },
+  {
+    "arvr_id": "PX0210",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB20\\Pressure%20Gauge\\PX0210-134%20Zone%20PRV%20SZ%20Outlet\\Pressure"
+  },
+  {
+    "arvr_id": "unknown01",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Valve\\US\\Closed"
+  },
+  {
+    "arvr_id": "unknown02",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Valve\\US\\Percentage%20Open"
+  },
+  {
+    "arvr_id": "unknown03",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Valve\\US\\Available"
+  },
+  {
+    "arvr_id": "unknown04",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Valve\\US\\Control%20In%20Progress"
+  },
+  {
+    "arvr_id": "unknown05",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Valve\\UT\\Closed"
+  },
+  {
+    "arvr_id": "unknown06",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Valve\\UT\\Percentage%20Open"
+  },
+  {
+    "arvr_id": "unknown07",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Valve\\UT\\Available"
+  },
+  {
+    "arvr_id": "unknown08",
+    "description": "",
+    "ositag": "\\\\ODS-AF\\ODS\\Mosaic\\Water1\\PRESTON%20WB62\\Valve\\UT\\Control%20In%20Progress"
+  }
+ ]

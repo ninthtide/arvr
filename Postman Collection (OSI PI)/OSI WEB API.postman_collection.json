@@ -1,0 +1,124 @@
+{
+	"info": {
+		"_postman_id": "3f45a4c6-721e-4b51-a926-b9f654256c68",
+		"name": "OSI WEB API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://sviotprod01.mwc.melbournewater.com.au/piwebapi/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sviotprod01.mwc.melbournewater.com.au/piwebapi/elements?path=\\\\ODS-AF\\ETP\\ETP\\IPS\\PP24\\PMP",
+					"protocol": "https",
+					"host": [
+						"sviotprod01",
+						"mwc",
+						"melbournewater",
+						"com",
+						"au"
+					],
+					"path": [
+						"piwebapi",
+						"elements"
+					],
+					"query": [
+						{
+							"key": "path",
+							"value": "\\\\ODS-AF\\ETP\\ETP\\IPS\\PP24\\PMP"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://sviotprod01.mwc.melbournewater.com.au/piwebapi/elements/E0aQHvg14NK0ya4arLOaXiCg0VaPtiVB6BGCYgBQVro9DwT0RTLUFGXEVUUFxFVFBcSVBTXFBQMjRcUE1Q/attributes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sviotprod01.mwc.melbournewater.com.au/piwebapi/attributes/A0EaQHvg14NK0ya4arLOaXiCg0VaPtiVB6BGCYgBQVro9Dw14E4P2yJ4EqOvxAo0UcTqAT0RTLUFGXEVUUFxFVFBcSVBTXFBQMjRcUE1QfEZMT1c",
+					"protocol": "https",
+					"host": [
+						"sviotprod01",
+						"mwc",
+						"melbournewater",
+						"com",
+						"au"
+					],
+					"path": [
+						"piwebapi",
+						"attributes",
+						"A0EaQHvg14NK0ya4arLOaXiCg0VaPtiVB6BGCYgBQVro9Dw14E4P2yJ4EqOvxAo0UcTqAT0RTLUFGXEVUUFxFVFBcSVBTXFBQMjRcUE1QfEZMT1c"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://sviotprod01.mwc.melbournewater.com.au/piwebapi/streams/A0EaQHvg14NK0ya4arLOaXiCg0VaPtiVB6BGCYgBQVro9Dw14E4P2yJ4EqOvxAo0UcTqAT0RTLUFGXEVUUFxFVFBcSVBTXFBQMjRcUE1QfEZMT1c/value",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://sviotprod01.mwc.melbournewater.com.au/piwebapi/streams/A0EaQHvg14NK0ya4arLOaXiCg0VaPtiVB6BGCYgBQVro9Dw14E4P2yJ4EqOvxAo0UcTqAT0RTLUFGXEVUUFxFVFBcSVBTXFBQMjRcUE1QfEZMT1c/value",
+					"protocol": "https",
+					"host": [
+						"sviotprod01",
+						"mwc",
+						"melbournewater",
+						"com",
+						"au"
+					],
+					"path": [
+						"piwebapi",
+						"streams",
+						"A0EaQHvg14NK0ya4arLOaXiCg0VaPtiVB6BGCYgBQVro9Dw14E4P2yJ4EqOvxAo0UcTqAT0RTLUFGXEVUUFxFVFBcSVBTXFBQMjRcUE1QfEZMT1c",
+						"value"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "basic",
+		"basic": [
+			{
+				"key": "password",
+				"value": "C4rti3rpr3s",
+				"type": "string"
+			},
+			{
+				"key": "username",
+				"value": "steelean",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"id": "9175bec2-3eea-49d8-a3cd-1b0f0379384d",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"id": "fcc622c0-7231-4741-95f0-4a6b3d64e867",
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,87 @@
+[
+    {
+        "Name" : "Angle",
+        "Id" : "116e1501-ae2a-481f-9a90-92815a05d2c8"
+    },
+    {
+        "Name" : "Area",
+        "Id" : "40770d16-a217-4993-9859-e22d3ecfc9fd"
+    },
+    {
+        "Name" : "Currency",
+        "Id" : "4aeeecce-8047-48e6-acd9-0ac54a7eeeaa"
+    },
+    {
+        "Name" : "DateTime",
+        "Id" : "8f5265ea-42c8-4b9a-8943-2f80960eb631"
+    },
+    {
+        "Name" : "Force",
+        "Id" : "5b860381-6b51-4e9a-b8cb-276d692ede3e"
+    },
+    {
+        "Name" : "Integer",
+        "Id" : "f640214a-bed2-41a1-a6c4-e95f295dfeb2"
+    },
+    {
+        "Name" : "Length",
+        "Id" : "e8e8f516-12c8-4e36-9a8b-18b8ab486498"
+    },
+    {
+        "Name" : "LinearForce",
+        "Id" : "049bc58b-207a-478c-8195-92ad24822d03"
+    },
+    {
+        "Name" : "Location",
+        "Id" : "70727e29-3951-45ea-b039-83b75e276d30"
+    },
+    {
+        "Name" : "Mass",
+        "Id" : "91c7aa93-f802-48cd-aa7a-587f9fa69191"
+    },
+    {
+        "Name" : "MassDensity",
+        "Id" : "101bdaa2-4fd4-4663-8705-483cec8bb3f1"
+    },
+    {
+        "Name" : "Moment",
+        "Id" : "629793b2-998d-4183-976a-207f048eb7b8"
+    },
+    {
+        "Name" : "Number",
+        "Id" : "580dae71-3b77-402b-a9d0-61f51caeb919"
+    },
+    {
+        "Name" : "Period",
+        "Id" : "fbe446ff-9052-4997-8014-5b6c440aafa3"
+    },
+    {
+        "Name" : "Space",
+        "Id" : "aeb3d4d8-87b2-427f-a5cf-3e2326820d4d"
+    },
+    {
+        "Name" : "Temperature",
+        "Id" : "87cae33e-5b32-4103-ae83-4b5392fcd60b"
+    },
+    {
+        "Name" : "Text",
+        "Id" : "110cc2e6-5cae-4e6c-a435-19fe184acee0"
+    },
+    {
+        "Name" : "URL",
+        "Id" : "4a4763b5-51cc-461c-aaea-64b963b95d3c"
+    },
+    {
+        "Name" : "User",
+        "Id" : "1b29ec09-936a-4b1a-b1a0-1f6027e13317"
+    },
+    {
+        "Name" : "Volume",
+        "Id" : "0d31e6e1-81aa-481a-8695-4e83f70ccb3b"
+    },
+    {
+        "Name" : "YesNo",
+        "Id" : "b93cbcad-d1af-4463-b7c9-115b6319d330"
+    }
+    
+]
